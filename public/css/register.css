@@ -1,0 +1,13 @@
+.content {
+    height: 100%;
+    background: #77e08c;
+}
+
+form {
+    width: 550px;
+    background: white;
+    margin: 100px auto;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 10px;
+}
